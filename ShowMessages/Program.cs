@@ -8,6 +8,7 @@ namespace ShowMessages
         {
             Console.WriteLine("Hello LP1!");
             // another comment
+            //comment 
         }
     }
 }
